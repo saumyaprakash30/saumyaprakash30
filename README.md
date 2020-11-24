@@ -1,7 +1,10 @@
 ### Hi there 👋
 ##### I am Saumya Prakash, 4th year Computer Engineering Student of IIIT DM Kancheepuram. 
+###### 🔭 I’m currently working on a project StoryShaala. (www.storyshaala.com)
+###### 📫 How to reach me: saumyaprakash30@gmail.com
 [![Saumya prakash's github stats](https://github-readme-stats.vercel.app/api?username=saumyaprakash30&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyaprakash30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **saumyaprakash30/saumyaprakash30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
