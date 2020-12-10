@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I am Saumya Prakash, 4th year Computer Engineering Student of IIIT DM Kancheepuram. 
+##### I am Saumya Prakash, 4th year Computer Engineering Student at IIIT DM Kancheepuram. 
 ###### 🔭 I’m currently working on a project StoryShaala. (www.storyshaala.com)
 ###### 📫 How to reach me: saumyaprakash30@gmail.com
 [![Saumya prakash's github stats](https://github-readme-stats.vercel.app/api?username=saumyaprakash30&count_private=true&include_all_commits=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
